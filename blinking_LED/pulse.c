@@ -46,7 +46,6 @@ int main(int argc, char *argv[])
         }
     }
 
-   /
     // Stop DMA, release resources
     gpioTerminate();
 
