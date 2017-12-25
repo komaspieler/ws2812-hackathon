@@ -8,6 +8,9 @@ Password: the usual
 
  * Interactive Pinout: https://pinout.xyz/
 
+# C Libraries
+ * [pigpio C library](http://abyz.me.uk/rpi/pigpio/pdif2.html)
+
 # WS2812 B Resources
 
  * datasheet/WS2812B Datasheet.pdf
