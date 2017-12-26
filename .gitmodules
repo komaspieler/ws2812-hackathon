@@ -1,0 +1,6 @@
+[submodule "demo-pigpio/pigpio"]
+	path = demo-pigpio/pigpio
+	url = https://github.com/joan2937/pigpio.git
+[submodule "src/rpi_ws281x"]
+	path = src/rpi_ws281x
+	url = https://github.com/jgarff/rpi_ws281x.git
